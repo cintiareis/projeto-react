@@ -1,2 +1,2 @@
-# projeto-react
+# projeto
 Created with CodeSandbox
